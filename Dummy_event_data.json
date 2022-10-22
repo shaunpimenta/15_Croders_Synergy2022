@@ -1,0 +1,39 @@
+{
+ "eventid":123;
+ "eventName":"Crescendo Hackathon";
+ "eventdetails":"We are organizing a 24-hour Hackathon with problem statements from varied domains.Our hackathon imparts you the platform to showcase your ideas and technical skills at a recognized level. This is the perfect opportunity to get those breathtaking ideas out of your astonishing minds and onto the computer screens. Coming again this year we bring you more engrossing and strenuous problem statements than ever before.
+Duration: 24 hours";
+"prize":"Cash Prizes worth ₹ 45,000/-
+Other Prizes worth ₹ 20,000/-
+Certificates for all Participants
+Certificates and prizes for best second year team
+First place prize money is ₹ 10,000/-
+Runners up ₹ 5,000/-";
+
+},
+
+
+{
+ "eventid":789;
+ "eventName":"Crescendo Mechathon";
+ "eventdetails":"Showcase your technical abilities and mechanical intellect as you solve critical real life problems applying a machine based approach within the stipulated time.";
+"prize":"Cash Prizes worth ₹ 45,000/-
+Other Prizes worth ₹ 20,000/-
+Certificates for all Participants
+Certificates and prizes for best second year team
+First place prize money is ₹ 10,000/-
+Runners up ₹ 5,000/-";
+
+},
+{
+ "eventid":125;
+ "eventName":"E-Sports: Valorant";
+ "eventdetails":"Assemble your roster of the best Radiants around, to battle it out against fellow players inching your way to victory one round at a time.";
+"prize":"Cash Prizes worth ₹ 45,000/-
+Other Prizes worth ₹ 20,000/-
+Certificates for all Participants
+Certificates and prizes for best second year team
+First place prize money is ₹ 10,000/-
+Runners up ₹ 5,000/-";
+
+}
