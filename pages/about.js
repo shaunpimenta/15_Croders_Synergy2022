@@ -48,39 +48,29 @@ export default function About() {
         <>
             <Head>
                 <title>About Student Council | Crescendo CRCE 2022-23</title>
-                <link rel="icon" href="/favicon.ico" />
+                
+        
+        
 
-                {/* Meta tags */}
-                <meta charset="UTF-8" />
-                <meta name="description" content="Meet our Student Council. Crescendo CRCE is the technical fest for extravaganza of fun and astonishing events, Guest Lectures, amazing prizes, and much more." />
-                <meta name="keywords" content="Student Council, contact us, team, Crescendo, Techno, Crescendo CRCE, CRCE, Veermata Jijabai Technological Institute, 
-        Guest Lecture Series, GLS, Technology, Technosavy, extravaganze, fun events" />
-                <meta name="author" content="Abhay Ubhale" />
-                <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        {/* Meta tags */}
+        <meta charset="UTF-8" />
+        <meta name="description" content="Crescendo CRCE - The technical fest of fun and astonishing events,amazing prizes, and much more." />
+        <meta name="keywords" content="Crescendo ,FrCRCE,CRCE,Fr.Conceicao Rodrigues College of Engineering Technology, Technosavy, extravaganze, fun events" />
+        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-                {/* OG Tags */}
-                <meta property="og:title" content="About Student Council | Crescendo CRCE 2021-22" />
-                <meta property="og:type" content="website" />
-                <meta property="og:url" content="https://Crescendo.org" />
-                <meta property="og:description" content="Meet our Student Council. Crescendo CRCE is the technical fest for extravaganza of fun and astonishing events, Guest Lectures, amazing prizes, and much more." />
-                <meta property="og:determiner" content="the" />
-                <meta property="og:locale" content="en_IN" />
-                <meta property="og:image" content="https://Crescendo.org/logo.png" />
-                <meta property="og:video" content="https://Crescendo.org/Crescendo.webm" />
-
-                {/* Twitter SEO Tags */}
-                <meta property="twitter:card" content="summary" />
-                <meta property="twitter:url" content="https://Crescendo.org"></meta>
-                <meta property="twitter:title" content="About Student Council | Crescendo CRCE 2021-22" />
-                <meta property="twitter:description" content="Meet our Student Council. Crescendo CRCE is the technical fest for extravaganza of fun and astonishing events, Guest Lectures, amazing prizes, and much more." />
-                <meta property="twitter:image" content="https://Crescendo.org/logo.png" />
+        {/* OG Tags */}
+        <meta property="og:title" content="Crescendo CRCE 2022-2023" />
+        <meta property="og:description" content="Crescendo CRCE - The technical fest of fun and astonishing events,amazing prizes, and much more." />
+        <meta property="og:type" content="website" />
+        <meta property="og:locale" content="en_IN" />
             </Head>
             <div className={bgStyles.parent}>
                 <div className={bgStyles.stars}></div>
                 <Container>
                     <SingleColumn>
                         <HeadingInfoContainer>
-                            <HeadingTitle>Meet Our Members</HeadingTitle>
+                            <HeadingTitle>About Us</HeadingTitle>
                             <HeadingDescription>
                                 Unity is strength... When there is teamwork and collaboration, wonderful things can be achieved.
                             </HeadingDescription>
@@ -89,31 +79,15 @@ export default function About() {
                         <Content>
 
                             <Card reversed={false}>
-                                <Image1 imageSrc="images/Student Council/Sai.webp" />
+                                <Image1 imageSrc="images/About/stuco.png"/>
                                 <Details>
-                                    <Title>Vijay Prajapati</Title>
-                                    <Subtitle>B.Tech Computer Engineering, Third Year</Subtitle>
-                                    <Description>Leader @ CRCE Crescendo</Description>
+                                    <Title>Students Council</Title>
+                                    <Subtitle>Fr. Conceicao Rodrigues College of Engineering,Bandra</Subtitle>
+                                    <Description>The raison d’etre of the Students' Council is to be a formal communication channel between the students, faculties and the administration. While it seeks to address any queries and resolve issues that the students and / or admin may face, the Student Council also relentlessly strives towards the enrichment of the campus experience.As a team, we are 21 players with one heartbeat who take pride in being the voice and strength of a community of 1000+ students. We don't look for a reason to help others. We work for a cause, not for applause.  
+                                    </Description>
                                 </Details>
                             </Card>
 
-                            <Card reversed={true}>
-                                <Image3 imageSrc="images/Student Council/Shubham.jpg" />
-                                <Details>
-                                    <Title>Mahek Intwala</Title>
-                                    <Subtitle>B.Tech Computer Engineering, Third Year </Subtitle>
-                                    <Description>Member @ CRCE Crescendo</Description>
-                                </Details>
-                            </Card>
-
-                            <Card reversed={false}>
-                                <Image3 imageSrc="images/Student Council/Rudhir.jpg" />
-                                <Details>
-                                    <Title>Shaun Pimenta</Title>
-                                    <Subtitle>B.Tech Computer Engineering, Third Year</Subtitle>
-                                    <Description>Member @ CRCE Crescendo</Description>
-                                </Details>
-                            </Card>
 
 
                         </Content>
